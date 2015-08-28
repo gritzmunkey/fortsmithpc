@@ -156,8 +156,9 @@ ul.navig li a:hover,ul.navig li a.active{
      	text-decoration:none;
         color:#fff;
         }
-.about-bottom a p.para1{
+.about-bottom p.para1{
         font-style: italic;
+        font-size: 21px;
         text-decoration: underline;
         color:#716A72;
         font-size: 20px;
